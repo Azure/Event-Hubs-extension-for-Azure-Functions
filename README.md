@@ -1,4 +1,7 @@
-﻿# Event Hubs Extension for Azure Functions
+﻿# Event Hubs Extension for Azure Functions [Archived]
+
+This GitHub project has been archived. Ongoing development on this project can be found in https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/eventhub/Microsoft.Azure.WebJobs.Extensions.EventHubs.
+
 This extension provides functionality for receiving Event Hubs messges in Azure Functions, allowing you to easily write functions that respond to any message published to Event Hubs.
 
 |Branch|Status|
